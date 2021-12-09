@@ -1,0 +1,13 @@
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\bin\Debug\netcoreapp3.1\PunchWordsConsoleApp.exe
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\bin\Debug\netcoreapp3.1\PunchWordsConsoleApp.deps.json
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\bin\Debug\netcoreapp3.1\PunchWordsConsoleApp.runtimeconfig.json
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\bin\Debug\netcoreapp3.1\PunchWordsConsoleApp.runtimeconfig.dev.json
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\bin\Debug\netcoreapp3.1\PunchWordsConsoleApp.dll
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\bin\Debug\netcoreapp3.1\PunchWordsConsoleApp.pdb
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.AssemblyInfo.cs
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.dll
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.pdb
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.genruntimeconfig.cache
