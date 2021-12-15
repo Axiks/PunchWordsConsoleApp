@@ -11,3 +11,4 @@ C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\
 C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.dll
 C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.pdb
 C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\obj\Debug\netcoreapp3.1\PunchWordsConsoleApp.genruntimeconfig.cache
+C:\Users\Niko\Desktop\LAb 4\PunchWordsConsoleApp\PunchWordsConsoleApp\bin\Debug\netcoreapp3.1\src\de-dictionary.tsv
